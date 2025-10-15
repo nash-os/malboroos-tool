@@ -6,7 +6,7 @@
 
 <br>
 
-A tool to personalize ReviOS to your needs. Rewritten in Dart with Fluent UI.
+A tool to personalize Malboro to your needs. Rewritten in Dart with Fluent UI.
 
 The program is meant to be only used on [malboroOS](https://www.malboro.cc/) 22.10 or up.
 
